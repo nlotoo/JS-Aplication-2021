@@ -1,7 +1,5 @@
 async function solution() {
-
-
-
+    
     let url = `http://localhost:3030/jsonstore/advanced/articles/list`
     let responce = await fetch(url)
     let data = await responce.json()
@@ -51,9 +49,4 @@ async function solution() {
             extraDIV.style.display = 'none'
         }
     }
-
-
-
-
-
 } solution();
