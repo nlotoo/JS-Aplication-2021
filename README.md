@@ -1,11 +1,12 @@
-## JavaScript aplication course 2021 (SoftUni)
-Excercise and homework for the Softuni JavaScript Aplication course 2021.
+# JS Applications - June 2021 (SoftUni)
 
-# Умения, които придобих:
+These are еxcercise and homework for Softuni JavaScript Aplication course 2021.
 
-- Какво е HTTP и как да правим заявки.
-- Създаване на прости Single Page приложения.
-- Работа с шаблони и рутиране.
-- Работа с нерелационни бази данни.
-- Работа с REST API и асинхронно програмиране.
-- Тестване на апликацията.
+## Acquired skills:
+
+- What is HTTP and how to make requests.
+- Create simple one-page applications.
+- Working with templates and routing.
+- Working with non-relational databases.
+- Working with REST API and asynchronous programming.
+- Application testing.
